@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751459616120",
+    "project_id": "phone-firebase-a6ea2",
+    "storage_bucket": "phone-firebase-a6ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751459616120:android:71e79cbd3ea40f45a2748d",
+        "android_client_info": {
+          "package_name": "com.example.lilac_video_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAKaexDB9GYj1mdzhhju9ro5ueb4I10FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751459616120:android:9e54b6b176b74238a2748d",
+        "android_client_info": {
+          "package_name": "com.example.video_player_stream_download"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAKaexDB9GYj1mdzhhju9ro5ueb4I10FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
